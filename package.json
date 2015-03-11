@@ -33,8 +33,8 @@
     "react-draggable2": "^0.5.1"
   },
   "peerDependencies": {
-    "react": "0.12.x",
-    "react-tap-event-plugin": "^0.1.3"
+    "react": "0.13.x",
+    "react-tap-event-plugin": "git://github.com/totopia/react-tap-event-plugin.git"
   },
   "devDependencies": {
     "react-tools": "^0.12.2",
