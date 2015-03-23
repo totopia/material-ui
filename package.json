@@ -34,7 +34,7 @@
   },
   "peerDependencies": {
     "react": ">=0.12",
-    "react-tap-event-plugin": "totopia/react-tap-event-plugin"
+    "react-tap-event-plugin": ">=0.1.5"
   },
   "devDependencies": {
     "react-tools": "^0.13.1",
